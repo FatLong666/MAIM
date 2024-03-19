@@ -6,16 +6,30 @@ The recent surge in interest surrounding text-to-video diffusion models highligh
 
 ![fig1](./assets/fig1.png)
 
-![volcano_7](./assets/volcano_7.gif)
+<img src="./assets/volcano_7.gif" alt="volcano_7" style="zoom:50%;" />
 
-![volcano_13](./assets/volcano_13-1710816112876-10.gif)
+**Prompt: A volcano erupts with huge smoke, overlook angle.**
 
-![volcano_13](./assets/1.gif)
+<img src="./assets/volcano_13-1710816112876-10.gif" alt="volcano_13" style="zoom:50%;" />
 
-![flower_12](./assets/flower_12.gif)
+**Prompt: A volcano erupts with smoke and lava, dark and red.**
 
-![flower_5](./assets/flower_5.gif)
+<img src="./assets/Guan_Yu_rides_a_red_horse_ours.gif" alt="Guan_Yu_rides_a_red_horse_ours" style="zoom:50%;" />
 
-![helicopter_12](./assets/helicopter_12.gif)
+**Prompt: Guan Yu rides a red horse.**
 
-![helicopter_17](./assets/helicopter_17.gif)
+<img src="./assets/flower_12.gif" alt="flower_12" style="zoom:50%;" />
+
+**Prompt: A red flower in bloom, Van Gogh style, oil painting.**
+
+<img src="./assets/flower_5.gif" alt="flower_5" style="zoom:50%;" />
+
+**Prompt: A pink flower in bloom, at sunrise.**
+
+<img src="./assets/helicopter_12.gif" alt="helicopter_12" style="zoom:50%;" />
+
+**Prompt: Two helicopters fly above the sea.**
+
+<img src="./assets/helicopter_17.gif" alt="helicopter_17" style="zoom:50%;" />
+
+**Prompt: Four helicopters fly on the city.**
