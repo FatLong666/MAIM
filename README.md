@@ -1,6 +1,4 @@
-## **Make An Image Move: Few-shot based Video**
-
-Our paper has accepted by ICPR2024.
+## **Make An Image Move: Few-shot based Video Generation Guided by CLIP**
 
 ![image-20240806215142014](D:\pycharmprojects\MAIM\assets\image-20240806215142014.png)
 
@@ -28,7 +26,7 @@ Our paper has accepted by ICPR2024.
 
   
 
-**Generation Guided by CLIP**
+
 
 ![fig1](./assets/fig1.png)
 
