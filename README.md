@@ -1,7 +1,5 @@
 ## **Make An Image Move: Few-shot based Video Generation Guided by CLIP**
 
-![image-20240806215142014](D:\pycharmprojects\MAIM\assets\image-20240806215142014.png)
-
 ### Dependencies and Installation
 
 - Ubuntu > 18.04
@@ -23,6 +21,7 @@
   pip install -r requirements.txt
   pip install xformers==0.0.13
   ```
+[ICPR文章.pdf](https://github.com/user-attachments/files/17055596/ICPR.pdf)
 
   
 
