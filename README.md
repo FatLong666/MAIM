@@ -45,10 +45,6 @@
 
 **Prompt: A red flower in bloom, Van Gogh style, oil painting.**
 
-<img src="./assets/flower_5.gif" alt="flower_5" style="zoom:50%;" />
-
-**Prompt: A pink flower in bloom, at sunrise.**
-
 <img src="./assets/helicopter_12.gif" alt="helicopter_12" style="zoom:50%;" />
 
 **Prompt: Two helicopters fly above the sea.**
